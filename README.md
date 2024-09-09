@@ -1,1 +1,1 @@
-This is a project on crime in Los Angeles
+This is a project on crime in Los Angeles, prepared for Data Mining classes.
